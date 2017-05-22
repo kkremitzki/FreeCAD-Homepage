@@ -1,6 +1,6 @@
 function addReportTemplate() {
   var descText = `<a href="//forum.freecadweb.org/viewtopic.php?f=3&t=5236">Read this before reporting</a> 
-  and make a <a href="//forum.freecadweb.org">forum thread asking for help</a> 
+  and make a <a href="https://forum.freecadweb.org/viewforum.php?f=3">forum thread asking for help</a> 
   <em>first</em> if you aren't sure it's a bug!`;
 
   var stepsText = `Include a detailed, step-by-step list for bugs.
